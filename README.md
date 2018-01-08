@@ -1,2 +1,5 @@
 # hello-world
-ideas, resources, things
+Pyhton
+R
+HTML
+CSS
